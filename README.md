@@ -1,2 +1,2 @@
 # git_test
-mt first git repo
+my first git repo
